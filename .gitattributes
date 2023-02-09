@@ -1,2 +1,2 @@
 rembg/_version.py export-subst
-u2net/ filter=lfs diff=lfs merge=lfs -text
+u2net/*.onix filter=lfs diff=lfs merge=lfs -text
